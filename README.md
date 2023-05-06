@@ -6,4 +6,6 @@
 
 **HTML5, CSS3, & Javascript:**  Explore a vast collection of 905 Pokemon species and discover which of them would make ideal household pets if they existed in the real world.
 
+Have you ever wondered what it would be like to have a Pokemon live with you? Would JigglyPuff or Pikachu be suitable housepets? Well you can find out now!
+
 This app uses the Poke API to check whether a given Pokemon would be a safe pet for you!
